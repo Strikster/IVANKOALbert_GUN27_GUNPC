@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\logic operation\logic operation\obj\Debug\net8.0\logic operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\logic operation\logic operation\obj\Debug\net8.0\logic operation.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\logic operation\logic operation\obj\Debug\net8.0\logic operation.AssemblyInfo.cs
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\logic operation\logic operation\obj\Debug\net8.0\logic operation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\logic operation\logic operation\obj\Debug\net8.0\logic operation.sourcelink.json
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\logic operation\logic operation\bin\Debug\net8.0\logic operation.exe
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\logic operation\logic operation\bin\Debug\net8.0\logic operation.deps.json
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\logic operation\logic operation\bin\Debug\net8.0\logic operation.runtimeconfig.json
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\logic operation\logic operation\bin\Debug\net8.0\logic operation.dll
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\logic operation\logic operation\bin\Debug\net8.0\logic operation.pdb
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\logic operation\logic operation\obj\Debug\net8.0\logic operation.dll
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\logic operation\logic operation\obj\Debug\net8.0\refint\logic operation.dll
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\logic operation\logic operation\obj\Debug\net8.0\logic operation.pdb
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\logic operation\logic operation\obj\Debug\net8.0\logic operation.genruntimeconfig.cache
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\logic operation\logic operation\obj\Debug\net8.0\ref\logic operation.dll
