@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\cycle\cycle\obj\Debug\net8.0\cycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\cycle\cycle\obj\Debug\net8.0\cycle.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\cycle\cycle\obj\Debug\net8.0\cycle.AssemblyInfo.cs
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\cycle\cycle\obj\Debug\net8.0\cycle.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\cycle\cycle\obj\Debug\net8.0\cycle.sourcelink.json
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\cycle\cycle\bin\Debug\net8.0\cycle.exe
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\cycle\cycle\bin\Debug\net8.0\cycle.deps.json
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\cycle\cycle\bin\Debug\net8.0\cycle.runtimeconfig.json
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\cycle\cycle\bin\Debug\net8.0\cycle.dll
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\cycle\cycle\bin\Debug\net8.0\cycle.pdb
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\cycle\cycle\obj\Debug\net8.0\cycle.dll
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\cycle\cycle\obj\Debug\net8.0\refint\cycle.dll
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\cycle\cycle\obj\Debug\net8.0\cycle.pdb
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\cycle\cycle\obj\Debug\net8.0\cycle.genruntimeconfig.cache
+C:\Users\user\Desktop\rep lessons\IVANKOALbert_GUN27_GUNPC\cycle\cycle\obj\Debug\net8.0\ref\cycle.dll
